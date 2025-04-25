@@ -14,11 +14,11 @@
 }
 
 .font-boldoa {
-  font-family: "Fontspring";
+  font-family: "Fredoka";
 }
 
 .font-boldoa1 {
-  font-family: "Fontspring";
+  font-family: "Fredoka";
   font-weight: 500; /* membuat huruf lebih tebal */
   -webkit-text-stroke: 2px white; /* stroke putih */
   color: black; /* warna isi teks */
@@ -26,8 +26,8 @@
 
 
 @font-face {
-  font-family: 'Fontspring';
-  src: url('./assets/fonts/Fontspring.otf') format('truetype');
+  font-family: 'Fredoka';
+  src: url('./assets/fonts/Fredoka.otf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
