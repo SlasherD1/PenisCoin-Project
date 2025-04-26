@@ -32,6 +32,10 @@ const App = () => {
             WELCUMS
           </h1>
 
+          <h1 className="text-md md:text-2xl bg-yellow-500 text-center rounded-xl font-bold text-black xl:py-2 xl:px-4">
+            CA : 4Lf3wTvFa5pkzkQpXTHovPyJWbyHTvTyTq228b1Hpump
+          </h1>
+
           {/* Social Media Icons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8 sm:gap-12 md:gap-20 lg:gap-28 xl:gap-35 mt-20 flex-wrap text-center">
             {[
